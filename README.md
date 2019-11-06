@@ -10,18 +10,18 @@ business in the town of Shippensburg Pa. The website includes a brief
 description of the business and an example menu. 
   
 Table of Contents:
-  -Goose Bros Ice Cream.html
-  -Goose Bros Ice Cream Menu.html
-  -Logo.jpg
-  -Photo 1.jpg
-  -Photo 2.jpg
-  -Photo 3.jpg
-  -One Scoop.jpg
-  -Two Scoops.jpg
-  -Three Scoops.jpg
-  -Waffle Cone.jpg
-  -mod3_config.php
-  -mod3_opendb.php
+  Goose Bros Ice Cream.html
+  Goose Bros Ice Cream Menu.html
+  Logo.jpg
+  Photo 1.jpg
+  Photo 2.jpg
+  Photo 3.jpg
+  One Scoop.jpg
+  Two Scoops.jpg
+  Three Scoops.jpg
+  Waffle Cone.jpg
+  mod3_config.php
+  mod3_opendb.php
   
 Installation instructions:
   This is a webpage and it just needs to be uploaded to a server for it 
